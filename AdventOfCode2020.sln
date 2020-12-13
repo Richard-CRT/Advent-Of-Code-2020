@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 9 - Encoding Error", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 10 - Adapter Array", "Day 10 - Adapter Array\Day 10 - Adapter Array.csproj", "{CAADEA0F-03CD-41DC-B2ED-DFBBE6F81E56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 11 - Seating System", "Day 11 - Seating System\Day 11 - Seating System.csproj", "{D1812645-4927-408E-A99A-90494AE7EEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 12 - Rain Risk", "Day 12 - Rain Risk\Day 12 - Rain Risk.csproj", "{E1822805-B70D-49F9-8DF6-FF864FE9AA77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{CAADEA0F-03CD-41DC-B2ED-DFBBE6F81E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAADEA0F-03CD-41DC-B2ED-DFBBE6F81E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAADEA0F-03CD-41DC-B2ED-DFBBE6F81E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1812645-4927-408E-A99A-90494AE7EEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1812645-4927-408E-A99A-90494AE7EEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1812645-4927-408E-A99A-90494AE7EEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1812645-4927-408E-A99A-90494AE7EEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1822805-B70D-49F9-8DF6-FF864FE9AA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1822805-B70D-49F9-8DF6-FF864FE9AA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1822805-B70D-49F9-8DF6-FF864FE9AA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1822805-B70D-49F9-8DF6-FF864FE9AA77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
