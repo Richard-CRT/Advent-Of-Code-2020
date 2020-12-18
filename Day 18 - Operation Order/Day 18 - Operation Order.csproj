@@ -4,9 +4,9 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{65208485-CE44-4757-AFA3-7F37373400BA}</ProjectGuid>
+    <ProjectGuid>{B31D5DA9-27FA-4B34-B019-92F859986D5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TemplateProject</RootNamespace>
+    <RootNamespace>Day_18___Operation_Order</RootNamespace>
     <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
