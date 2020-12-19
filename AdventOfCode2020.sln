@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 17 - Conway Cubes", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 18 - Operation Order", "Day 18 - Operation Order\Day 18 - Operation Order.csproj", "{B31D5DA9-27FA-4B34-B019-92F859986D5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 19 - Monster Messages", "Day 19 - Monster Messages\Day 19 - Monster Messages.csproj", "{4ECF2CE4-0D48-434D-B71B-C5B63258E605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{B31D5DA9-27FA-4B34-B019-92F859986D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B31D5DA9-27FA-4B34-B019-92F859986D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B31D5DA9-27FA-4B34-B019-92F859986D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
