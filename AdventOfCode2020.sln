@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 18 - Operation Order", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 19 - Monster Messages", "Day 19 - Monster Messages\Day 19 - Monster Messages.csproj", "{4ECF2CE4-0D48-434D-B71B-C5B63258E605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 20 - Jurassic Jigsaw", "Day 20 - Jurassic Jigsaw\Day 20 - Jurassic Jigsaw.csproj", "{47033EB5-A652-4C8C-AD98-BB8C1A310365}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ECF2CE4-0D48-434D-B71B-C5B63258E605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47033EB5-A652-4C8C-AD98-BB8C1A310365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47033EB5-A652-4C8C-AD98-BB8C1A310365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47033EB5-A652-4C8C-AD98-BB8C1A310365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47033EB5-A652-4C8C-AD98-BB8C1A310365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
