@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 21 - Allergen Assessmen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 22 - Crab Combat", "Day 22 - Crab Combat\Day 22 - Crab Combat.csproj", "{52796341-8167-43CD-ACDE-8850B6D45A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 23 - Crab Cups", "Day 23 - Crab Cups\Day 23 - Crab Cups.csproj", "{FCAD3912-1B2E-491C-BC00-26DD35D6CEFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{52796341-8167-43CD-ACDE-8850B6D45A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52796341-8167-43CD-ACDE-8850B6D45A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52796341-8167-43CD-ACDE-8850B6D45A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAD3912-1B2E-491C-BC00-26DD35D6CEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAD3912-1B2E-491C-BC00-26DD35D6CEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAD3912-1B2E-491C-BC00-26DD35D6CEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAD3912-1B2E-491C-BC00-26DD35D6CEFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
