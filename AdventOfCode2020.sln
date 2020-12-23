@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCodeUtilities", "Ut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateProject", "TemplateProject\TemplateProject.csproj", "{65208485-CE44-4757-AFA3-7F37373400BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1", "1\Day 1.csproj", "{3A463E83-3FB1-40D7-A195-4C2CDF2DC081}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 - Report Repair", "Day 1 - Report Repair\Day 1 - Report Repair.csproj", "{3A463E83-3FB1-40D7-A195-4C2CDF2DC081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2", "2\Day 2.csproj", "{AA23BC87-C533-4CFA-B695-F03B8FA83C82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 2 - Password Philosophy", "Day 2 - Password Philosophy\Day 2 - Password Philosophy.csproj", "{AA23BC87-C533-4CFA-B695-F03B8FA83C82}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 3 - Toboggan Trajectory", "Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory.csproj", "{AFFF8436-DA57-4140-A852-75924ECEDB07}"
 EndProject

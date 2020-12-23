@@ -7,7 +7,7 @@
     <ProjectGuid>{F0A5B6DD-7121-422E-87E9-41E613C89D27}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Day_16___Ticket_Translation</RootNamespace>
-    <AssemblyName>9</AssemblyName>
+    <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

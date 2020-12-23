@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AdventOfCodeUtilities;
 
-namespace _1
+namespace Day_1___Report_Repair
 {
     class Program
     {
