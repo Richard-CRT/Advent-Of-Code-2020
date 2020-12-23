@@ -166,7 +166,7 @@ namespace Day_22___Crab_Combat
                     }
                 }
 
-                string newHash = string.Join("", deck1);
+                string newHash = string.Join(",", deck1) + "|" + string.Join(",",deck2);
                 if (hashes.Contains(newHash))
                 {
                     AoCUtilities.DebugWriteLine($"Back to game level {recursionLevel - 1}...");
