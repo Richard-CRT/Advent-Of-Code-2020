@@ -7,7 +7,7 @@
     <ProjectGuid>{1C51F8FF-AA61-43E3-A180-777CD53C8289}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Day_15___Rambunctious_Recitation</RootNamespace>
-    <AssemblyName>9</AssemblyName>
+    <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

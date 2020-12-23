@@ -7,7 +7,7 @@
     <ProjectGuid>{887C3EB6-EB82-4E3B-B5BE-E1F8EEAD411E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Day_14___Docking_Data</RootNamespace>
-    <AssemblyName>9</AssemblyName>
+    <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

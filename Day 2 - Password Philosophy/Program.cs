@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AdventOfCodeUtilities;
 
-namespace _2
+namespace Day_2___Password_Philosophy
 {
     class Program
     {

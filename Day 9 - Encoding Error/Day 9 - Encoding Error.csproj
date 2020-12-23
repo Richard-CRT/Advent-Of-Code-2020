@@ -7,7 +7,7 @@
     <ProjectGuid>{01DEAAD2-321A-493C-A1B8-C6B917E5EA34}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Day_9___Encoding_Error</RootNamespace>
-    <AssemblyName>9</AssemblyName>
+    <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

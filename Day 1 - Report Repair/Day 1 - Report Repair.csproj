@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3A463E83-3FB1-40D7-A195-4C2CDF2DC081}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1</RootNamespace>
-    <AssemblyName>9</AssemblyName>
+    <RootNamespace>Day_1___Report_Repair</RootNamespace>
+    <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

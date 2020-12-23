@@ -7,7 +7,7 @@
     <ProjectGuid>{312C2F9E-0E55-43A9-B5D2-6F1C7A6DC80B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Day_5___Binary_Boarding</RootNamespace>
-    <AssemblyName>9</AssemblyName>
+    <AssemblyName>aoc_day</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
