@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 23 - Crab Cups", "Day 2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 24 - Lobby Layout", "Day 24 - Lobby Layout\Day 24 - Lobby Layout.csproj", "{914D028D-87AA-479E-9F7F-0623F3A54DBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 25 - Combo Breaker", "Day 25 - Combo Breaker\Day 25 - Combo Breaker.csproj", "{E2232F27-566A-489B-8BF3-30BF7A2DCFE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{914D028D-87AA-479E-9F7F-0623F3A54DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{914D028D-87AA-479E-9F7F-0623F3A54DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{914D028D-87AA-479E-9F7F-0623F3A54DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2232F27-566A-489B-8BF3-30BF7A2DCFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2232F27-566A-489B-8BF3-30BF7A2DCFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2232F27-566A-489B-8BF3-30BF7A2DCFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2232F27-566A-489B-8BF3-30BF7A2DCFE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
